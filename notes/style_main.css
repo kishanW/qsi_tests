@@ -1,0 +1,9 @@
+body{
+	background: #eee;
+	font-family: 'Segoe UI Light', 'OpenSansLight', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+#container{
+	width: 600px;
+	margin: auto auto;
+}
